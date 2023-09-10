@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+24-Nov,1,2,Jahangir Minhas,Set up the GUI for the game board screen,Debugging the move logic with Behrouz,26-Nov,"Yes, waiting for Behrouz to help with debugging move logic"
+25-Nov,1,2,Behrouz Akhbari,Implemented the methods inside MoveDiagonally and MoveNormally,Debugging the move logic with Jahangir,26-Nov,No
+25-Nov,1,2,Junaid Khan,Completed the LoadBoardActionListener Class,Refine Logic for already made classes,26-Nov,No
+25-Nov,1,2,William Chik,Finished a separate GUI to test the timer ,Complete the code for timer so it makes random moves when time runs out and displays the timer accurately,27-Nov,No

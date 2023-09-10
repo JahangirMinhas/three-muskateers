@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+22-Nov,1,1,Jahangir Minhas,Setup the Main Menu Screen,Setting up the GUI for the game board screen,By the end of tomorrow (Nov 23),No
+22-Nov,1,1,Behrouz Akhbari,Setup the classes for the Strategy Pattern( Move Behaviour and Move Diagonally and Move Normally),Implementing the methods inside MoveDiagonally and MoveNormally,By the end of tomorrow (Nov 23),No
+23-Nov,1,1,Junaid Khan,Setup the classes for the Builder Pattern LogActionListener,Completing the LoadBoardActionListener Class,By the end of Nov 24th,"Yes, waiting for the GUI implementation"
+23-Nov,1,1,William Chik,"Setup Timer, Observer and Observable for the observer pattern and have the observable and observer communicate properly.",Setup a separate GUI to test the timer ,By the end of Nov 24th,No

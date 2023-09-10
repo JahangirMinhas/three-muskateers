@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+DEV-11,GUI,"Junaid, William, Behrouz",https://github.com/UTMCSC207/assignment3-team-null/pull/5,Buttons don't work but the board runs fine and the input works
+DEV-12,Move Behaviour,"Junaid, William, Jahangir",https://github.com/UTMCSC207/assignment3-team-null/pull/4,The Move method works but it has a useless extra parameter
+DEV-13,Timer ,"Junaid, Behrouz, Jahangir",https://github.com/UTMCSC207/assignment3-team-null/pull/7,Timer needs to be merged with base GUI 
+DEV-14,Move Log System,"William, Behrouz, Jahangir",https://github.com/UTMCSC207/assignment3-team-null/pull/6,Few problems with LoadBoardActionListener

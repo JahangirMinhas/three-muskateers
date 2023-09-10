@@ -1,0 +1,10 @@
+GUARD
+Behavior: normal
+O O O O X
+O O O O O
+O O _ X O
+X O O O O
+O _ O O O
+(A5) -> (A4)
+(B5) -> (A5)
+(C3) -> (D3)
